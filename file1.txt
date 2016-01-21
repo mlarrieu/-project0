@@ -1,1 +1,3 @@
-This is my first day of class
+This is my first day of class.
+
+I just made my first git commit.
